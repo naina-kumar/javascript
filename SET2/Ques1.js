@@ -7,3 +7,5 @@ const people =[
 ]
 const peopleName=people.map((People)=>People.name);
 console.log(peopleName);
+
+//Hi Naina
